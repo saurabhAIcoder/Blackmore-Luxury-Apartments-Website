@@ -1,0 +1,216 @@
+*{
+	margin: 0px;
+	padding: 0px;	
+}
+
+
+.main-herosection{
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 4500px;
+}
+.navbar{
+	padding-top: 30px;
+	padding-left: 30px;
+}
+.new{
+	display: flex;
+	gap: 60px;
+	padding-left: 800px;
+	color: whitesmoke;
+	
+}
+.head{
+	color: whitesmoke;
+	
+	margin-left: 0px;
+}
+.web{
+	padding-top: 250px;
+text-align: center;
+color: whitesmoke;
+}
+.blue{
+	text-align: center;
+	color: whitesmoke;
+	font-size: 30px;
+
+}
+.btn{
+	color: black;
+	background-color: pink;
+	margin-left: 600px;
+	height: 60px;
+
+	margin-top: 50px;
+	border-radius: 30px;
+	color: red;
+	padding:14px 20px 14px 20px;
+	padding-bottom: 30px;
+
+
+}
+.name{
+	font-size: 60px;
+	color: whitesmoke;
+	color: gold;
+}
+.img{
+	margin-left: 120px;
+	margin-top: 30px;
+
+}
+.man{
+	margin-left: 20px;
+}
+.itly{
+	font-size: 70px;
+	padding-top: 200px;
+	color: green;
+	padding-left: 30px;
+}
+.its{
+	padding-top: 30px;
+}
+.ac{
+	font-size: px;
+	margin-top: 40px;
+	color: white;
+	display: flex;
+	margin-left: 40px;
+	gap: 50px;
+
+	
+
+}
+.TIME{
+	margin-left: 200PX;
+	margin-top: 50px;
+	border-radius: 30px;
+	color: red;
+	padding:14px 20px 14px 20px;
+	padding-bottom: 20px;
+	background-color: gray;
+}
+.bl{
+	font-size: 20px;
+	margin-top: 40px;
+	color: white;
+	display: flex;
+	margin-left: 40px;
+	gap: 50px;
+
+	
+}
+.rel{
+	font-size: 70px;
+	padding-top: 100px;
+	color: orangered;
+	padding-left: 30px;
+	
+}
+.min{
+	color: black;
+	background-color: gray;
+	margin-left: 100px;
+	height: 60px;
+
+	margin-top: 50px;
+	border-radius: 30px;
+	color: red;
+	padding:14px 20px 14px 20px;
+	padding-bottom: 30px;
+
+
+}
+
+.te{
+	color:whitesmoke;
+	padding-left: 600px;
+	padding-top: 80px;
+	font-size: 50pxs;
+
+
+}
+.newline{
+	color:yellow;
+	padding-top: 50px;
+	text-align: center;
+	font-size: 60px;
+
+}
+.detail{
+	display: flex;
+	gap:30px;
+	margin-left: 100px;
+	margin-top: 30px;
+
+}
+.detail img{
+	height: 500px;
+    width: 620px;
+    
+}
+.first ul li{
+	list-style-type: none;
+
+}
+.first{
+	gap: 30px;
+	display: flex;
+	padding-left: 400px;
+}
+.three{
+	display: flex;
+	gap: 50px;
+	margin-top: 30px;
+	padding-left: 550px;
+	color: whitesmoke;
+	
+}
+.main  {
+
+	display: flex;
+	margin-top: 100px;
+	gap: 40px;
+	margin-left: 550px;
+	font-size: 30px;
+	text-align: center;
+	color: whitesmoke;
+
+}
+.main ul li{
+	list-style-type: none;
+}
+.third{
+	padding-right: 80px;
+	display: flex;
+
+}
+.number{
+	color: white;
+}
+.tree{
+	color: green;
+}
+.all{
+	padding-left: 50px;
+	text-align: center;
+	font-size: 40px;
+	background-color: red;
+	height: 300px;
+	
+	padding-top: 30px;
+	margin-top: 30px;
+}
+.mead{
+	padding-top: 50px;
+	padding-left: 350px;
+	gap: 20px;
+
+}
+.linked{
+	background-color: gray;
+	height: 260px;
+}
